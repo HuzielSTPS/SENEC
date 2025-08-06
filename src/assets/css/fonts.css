@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Geomanist';
+    src: url('@/assets/fonts/geomanist.woff2') format('woff2'),
+         url('@/assets/fonts/geomanist.woff') format('woff'),
+         url('@/assets/fonts/geomanist.ttf') format('truetype'); /* Agrega otros formatos si es necesario */
+    font-weight: normal;
+    font-style: normal;
+  }
